@@ -7,7 +7,7 @@ public class OrderRepository
 {
     private List<Customer> _customers = new List<Customer>();
     private List<Order> _orders = new List<Order>();
-    private List<OrderItem> _orderItems = new List<OrderItem>(); // Evidența tuturor item-urilor
+    private List<OrderItem> _orderItems = new List<OrderItem>(); 
 
     public void AddCustomer(Customer customer) => _customers.Add(customer);
     public void AddOrder(Order order) => _orders.Add(order);
