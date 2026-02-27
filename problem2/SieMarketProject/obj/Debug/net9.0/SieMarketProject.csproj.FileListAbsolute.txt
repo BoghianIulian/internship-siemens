@@ -1,0 +1,14 @@
+D:\siemens\problem2\SieMarketProject\bin\Debug\net9.0\SieMarketProject.exe
+D:\siemens\problem2\SieMarketProject\bin\Debug\net9.0\SieMarketProject.deps.json
+D:\siemens\problem2\SieMarketProject\bin\Debug\net9.0\SieMarketProject.runtimeconfig.json
+D:\siemens\problem2\SieMarketProject\bin\Debug\net9.0\SieMarketProject.dll
+D:\siemens\problem2\SieMarketProject\bin\Debug\net9.0\SieMarketProject.pdb
+D:\siemens\problem2\SieMarketProject\obj\Debug\net9.0\SieMarketProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\siemens\problem2\SieMarketProject\obj\Debug\net9.0\SieMarketProject.AssemblyInfoInputs.cache
+D:\siemens\problem2\SieMarketProject\obj\Debug\net9.0\SieMarketProject.AssemblyInfo.cs
+D:\siemens\problem2\SieMarketProject\obj\Debug\net9.0\SieMarketProject.csproj.CoreCompileInputs.cache
+D:\siemens\problem2\SieMarketProject\obj\Debug\net9.0\SieMarketProject.dll
+D:\siemens\problem2\SieMarketProject\obj\Debug\net9.0\refint\SieMarketProject.dll
+D:\siemens\problem2\SieMarketProject\obj\Debug\net9.0\SieMarketProject.pdb
+D:\siemens\problem2\SieMarketProject\obj\Debug\net9.0\SieMarketProject.genruntimeconfig.cache
+D:\siemens\problem2\SieMarketProject\obj\Debug\net9.0\ref\SieMarketProject.dll
